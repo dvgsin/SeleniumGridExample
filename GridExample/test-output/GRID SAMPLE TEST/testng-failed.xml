@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [GRID SAMPLE TEST]" guice-stage="DEVELOPMENT">
+  <test name="GRID TEST WITH SERIAL EXECTION WITH BROWSER FF">
+    <classes>
+      <class name="example.GridExample"/>
+    </classes>
+  </test> <!-- GRID TEST WITH SERIAL EXECTION WITH BROWSER FF -->
+</suite> <!-- Failed suite [GRID SAMPLE TEST] -->
